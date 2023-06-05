@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Timothy Yip</h1>
 <h3 align="center">Data Analyst and Storyteller</h3>
-<img align="right" alt="Coding" width="200" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI5ZmY5M2UzOGQwNDM1Y2M5YzM0NWIxNzdjYTk1NDExYTkxYjkyYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/JWuBH9rCO2uZuHBFpm/giphy.gif](https://media3.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif?cid=ecf05e47b6deshisp799856mb38zuiwj33h1h64xgyngimqb&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+<img align="right" alt="Coding" width="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.7wQ7ZtdFTVIMaWRLomPWnQHaFo%26pid%3DApi&f=1&ipt=d3506004714c34fb3f53cc1fad09d83006de67e1cf5bd7c47e0505e394ed2f3a&ipo=images">
 - 🌱 I’m currently learning **ChatGpt Prompt for Queries**
 
 - 📫 How to reach me **timsyip@gmail.com**
