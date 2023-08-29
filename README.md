@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **timsyip@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1pUtbeLe-DiStTb7vA3j9XQ64QDfGzDN2/edit?usp=sharing&ouid=104950358281168941078&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1_QvnalIsy7ND8hUXqUQnvo6WW3c0MN0C/edit?usp=sharing&ouid=104950358281168941078&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
