@@ -3,9 +3,8 @@
 <img align="right" alt="Coding" width="200" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.7wQ7ZtdFTVIMaWRLomPWnQHaFo%26pid%3DApi&f=1&ipt=d3506004714c34fb3f53cc1fad09d83006de67e1cf5bd7c47e0505e394ed2f3a&ipo=images">
 - 🌱 I’m currently learning **ChatGpt Prompt for Queries**
 
-- 📫 How to reach me **timsyip@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1_QvnalIsy7ND8hUXqUQnvo6WW3c0MN0C/edit?usp=drive_link&ouid=104950358281168941078&rtpof=true&sd=true)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
